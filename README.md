@@ -1,1 +1,2 @@
-# Subdomain List Compilerer
+# Sublist3r and assetfinder enumeration automation
+A simple automation tool that creates txt files from the results of <b>Sublist3r</b> and <b>AssetFinder</b> then compiles the unique subdomains obtained.
